@@ -1,5 +1,7 @@
 ## Hi there 👋
-### I am trying to make this work, hold on...
+### IT WORKED, but it worked after I commited using VSCode directly.
+#### Let me try comitting using the Terminal.
+##### again... trying harder.
 
 <!--
 **silguem/silguem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
