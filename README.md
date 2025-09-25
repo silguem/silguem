@@ -1,8 +1,7 @@
-## Hi there 👋
-### IT WORKED, but it worked after I commited using VSCode directly.
-#### Let me try comitting using the Terminal.
-##### again... trying harder.
-##### note to self, always locate the directory you want to commit in the terminal.
+## Hello, I hope you are well.
+### Nothing fancy yet, I still have to learn many things.
+#### Expect greatness.
+
 <!--
 **silguem/silguem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
